@@ -1,7 +1,6 @@
 # parallax_midnight
 - Practice project using parallex to beautify a site.
 - Learned and followed a parallax effect youtube tutorial from https://www.youtube.com/watch?v=IYz2caVwGso
-
 - **Github link** - https://github.com/jirimicvl/parallax_midnight
 - **Project deployed** via <a href="https://parallax-midnight.vercel.app">Parallex Midnight</a> - https://parallax-midnight.vercel.app
 
